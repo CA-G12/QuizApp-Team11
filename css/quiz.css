@@ -34,7 +34,7 @@ main input{
     margin-left: 2rem;
     cursor: pointer;
 }
-main input[type="submit"]{
+main input[type="button"]{
     margin-bottom: 1rem;
     width: 8rem;
     height: 2.5rem;
